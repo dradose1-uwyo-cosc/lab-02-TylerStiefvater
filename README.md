@@ -1,7 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
+# [Tyler Stiefvater]
+## [Lab02]
+## [09/18/2024]
+## ]Worked with/sources 
 * example
 * example
 * example
