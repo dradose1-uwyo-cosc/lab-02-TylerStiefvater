@@ -2,7 +2,7 @@
 ## [Lab02]
 ## [09/18/2024]
 ## Worked with/sources 
-
+help from Colter
 ## Project Quirks/ Things that don't work
 
 print("Hello, COSC1010")
